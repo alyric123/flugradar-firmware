@@ -1,8 +1,43 @@
 {
-    "version":  "0.8.0",
-    "nummer":  800,
-    "url":  "https://raw.githubusercontent.com/alyric123/flugradar-firmware/main/firmware/flugradar-0.8.0.bin",
-    "groesse":  2822144,
-    "text":  "Updates über GitHub, Statistikseiten neu, Gerät-Einstellungen",
-    "datum":  "2026-10-26"
+  "version": "0.9.0",
+  "nummer": 900,
+  "url": "https://raw.githubusercontent.com/alyric123/flugradar-firmware/main/firmware/flugradar-0.9.0.bin",
+  "groesse": 2822144,
+  "text": "Zu jedem Update gibt es jetzt eine Liste der Änderungen",
+  "datum": "2026-10-26",
+  "aenderungen": [
+    {
+      "version": "0.9.0",
+      "nummer": 900,
+      "datum": "2026-10-26",
+      "punkte": [
+        "Zu jedem Update gibt es jetzt eine Liste der Änderungen",
+        "Vor dem Installieren: UPDATE ANSEHEN zeigt, was neu ist",
+        "Nach dem Update erscheint einmal \"Neu in Version …\"",
+        "Unter Einstellungen → System: Version antippen zeigt die Änderungen",
+        "Hinweis-Banner zum Update antippen öffnet die Änderungen"
+      ]
+    },
+    {
+      "version": "0.8.0",
+      "nummer": 800,
+      "datum": "2026-10-26",
+      "punkte": [
+        "Updates direkt über das Internet: Meldung bei neuer Version, Installieren unter Einstellungen → System",
+        "Nur signierte Firmware wird angenommen",
+        "Startet eine neue Version nicht sauber, läuft automatisch wieder die alte",
+        "Statistikseiten übersichtlicher: große Zahlen oben, Tabellen darunter",
+        "Flugzeugtypen ausgeschrieben (Airbus A320neo statt A20N)",
+        "Neue Einstellungen unter Gerät: Helligkeit, Bild drehen, täglicher Neustart, Bildschirm putzen"
+      ]
+    },
+    {
+      "version": "0.7.0",
+      "nummer": 700,
+      "datum": "2026-10-26",
+      "punkte": [
+        "Erste Version auf dem Gerät: Karte, Flugzeuge, Routen, Statistik, Sammelalbum, Einrichtung per QR-Code"
+      ]
+    }
+  ]
 }
