@@ -1,11 +1,21 @@
 {
-  "version": "0.9.0",
-  "nummer": 900,
-  "url": "https://raw.githubusercontent.com/alyric123/flugradar-firmware/main/firmware/flugradar-0.9.0.bin",
+  "version": "0.9.1",
+  "nummer": 901,
+  "url": "https://raw.githubusercontent.com/alyric123/flugradar-firmware/main/firmware/flugradar-0.9.1.bin",
   "groesse": 2822144,
-  "text": "Zu jedem Update gibt es jetzt eine Liste der Änderungen",
-  "datum": "2026-10-26",
+  "text": "Nachts ist das Display jetzt ganz aus statt nur dunkler – Flugzeuge und Statistik werden weiter gezählt",
+  "datum": "2026-10-27",
   "aenderungen": [
+    {
+      "version": "0.9.1",
+      "nummer": 901,
+      "datum": "2026-10-27",
+      "punkte": [
+        "Nachts ist das Display jetzt ganz aus statt nur dunkler – Flugzeuge und Statistik werden weiter gezählt",
+        "Antippen weckt das Display wie bisher für 30 Sekunden",
+        "Die Einstellung \"Helligkeit nachts\" entfällt (das Display kann nur an oder aus)"
+      ]
+    },
     {
       "version": "0.9.0",
       "nummer": 900,
