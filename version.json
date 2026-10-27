@@ -1,11 +1,21 @@
 {
-  "version": "0.9.1",
-  "nummer": 901,
-  "url": "https://raw.githubusercontent.com/alyric123/flugradar-firmware/main/firmware/flugradar-0.9.1.bin",
-  "groesse": 2822144,
-  "text": "Nachts ist das Display jetzt ganz aus statt nur dunkler – Flugzeuge und Statistik werden weiter gezählt",
+  "version": "0.9.2",
+  "nummer": 902,
+  "url": "https://raw.githubusercontent.com/alyric123/flugradar-firmware/main/firmware/flugradar-0.9.2.bin",
+  "groesse": 2887680,
+  "text": "Neues Update ist jetzt auch auf dem Hauptbildschirm zu sehen: Knopf oben links in der Karte",
   "datum": "2026-10-27",
   "aenderungen": [
+    {
+      "version": "0.9.2",
+      "nummer": 902,
+      "datum": "2026-10-27",
+      "punkte": [
+        "Neues Update ist jetzt auch auf dem Hauptbildschirm zu sehen: Knopf oben links in der Karte",
+        "Im Uhr-Bildschirm (ohne Flugzeuge) steht der Knopf unter dem Datum",
+        "Antippen zeigt, was neu ist – dort direkt installieren"
+      ]
+    },
     {
       "version": "0.9.1",
       "nummer": 901,
