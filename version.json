@@ -1,11 +1,22 @@
 {
-  "version": "0.10.0",
-  "nummer": 1000,
-  "url": "https://raw.githubusercontent.com/alyric123/flugradar-firmware/main/firmware/flugradar-0.10.0.bin",
+  "version": "0.10.1",
+  "nummer": 1001,
+  "url": "https://raw.githubusercontent.com/alyric123/flugradar-firmware/main/firmware/flugradar-0.10.1.bin",
   "groesse": 2887680,
-  "text": "Einrichtung komplett am Gerät, ohne Handy: WLAN aus der Liste wählen und Standort suchen",
+  "text": "WLAN-Einrichtung: Die Liste der Netze erscheint jetzt von selbst, ohne NEU SUCHEN",
   "datum": "2026-10-29",
   "aenderungen": [
+    {
+      "version": "0.10.1",
+      "nummer": 1001,
+      "datum": "2026-10-29",
+      "punkte": [
+        "WLAN-Einrichtung: Die Liste der Netze erscheint jetzt von selbst, ohne NEU SUCHEN",
+        "Bleibt die Liste leer, sucht das Gerät alle paar Sekunden von selbst nochmal",
+        "Nach der Einrichtung kommen die Flugzeuge nach wenigen Sekunden statt erst nach knapp einer Minute",
+        "Nach der Ortswahl zeigt das Gerät \"Karte wird gezeichnet\", statt einfach stehenzubleiben"
+      ]
+    },
     {
       "version": "0.10.0",
       "nummer": 1000,
