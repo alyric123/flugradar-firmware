@@ -1,11 +1,22 @@
 {
-  "version": "0.10.1",
-  "nummer": 1001,
-  "url": "https://raw.githubusercontent.com/alyric123/flugradar-firmware/main/firmware/flugradar-0.10.1.bin",
+  "version": "0.11.0",
+  "nummer": 1100,
+  "url": "https://raw.githubusercontent.com/alyric123/flugradar-firmware/main/firmware/flugradar-0.11.0.bin",
   "groesse": 2887680,
-  "text": "WLAN-Einrichtung: Die Liste der Netze erscheint jetzt von selbst, ohne NEU SUCHEN",
-  "datum": "2026-10-29",
+  "text": "Neu: Werkseinstellungen unter SYSTEM – setzt das Flugradar auf den Auslieferungszustand zurück",
+  "datum": "2026-10-30",
   "aenderungen": [
+    {
+      "version": "0.11.0",
+      "nummer": 1100,
+      "datum": "2026-10-30",
+      "punkte": [
+        "Neu: Werkseinstellungen unter SYSTEM – setzt das Flugradar auf den Auslieferungszustand zurück",
+        "Gelöscht werden WLAN-Zugang, Standort, alle Einstellungen, Statistik, Verlauf, Sammelalbum und gespeicherte Karten",
+        "Danach startet die Einrichtung wie beim ersten Einschalten, die Firmware bleibt",
+        "Vorher fragt eine eigene Seite nach (ABBRECHEN oder ALLES LÖSCHEN)"
+      ]
+    },
     {
       "version": "0.10.1",
       "nummer": 1001,
